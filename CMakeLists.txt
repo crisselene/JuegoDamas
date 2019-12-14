@@ -4,4 +4,4 @@ project(DamasEspanolas)
 set(CMAKE_CXX_STANDARD 14)
 
 add_executable(DamasEspanolas
-        ChristianSukuzhanayDamasEspanolas/main.cpp)
+    ChristianSukuzhanayDamasEspanolas/main.cpp)
